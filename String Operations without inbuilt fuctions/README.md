@@ -9,4 +9,4 @@ Coding
 Sample Output\
 String length : 6\
 Copied string : Github\
-Reversed string : gnidoC\
+Reversed string : gnidoC
