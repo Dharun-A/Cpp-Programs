@@ -2,8 +2,8 @@
 
 Develop a function name "isPrime" within which the input number is passed as an argument and it is checked whether it is prime or not prime.
 
-Sample Input
+Sample Input/
 245
 
-Sample Output
+Sample Output/
 Not Prime
